@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C#\BasketList\BasketList\bin\Debug\netcoreapp3.1\BasketList.exe
+C:\Users\User\Documents\C#\BasketList\BasketList\bin\Debug\netcoreapp3.1\BasketList.deps.json
+C:\Users\User\Documents\C#\BasketList\BasketList\bin\Debug\netcoreapp3.1\BasketList.runtimeconfig.json
+C:\Users\User\Documents\C#\BasketList\BasketList\bin\Debug\netcoreapp3.1\BasketList.runtimeconfig.dev.json
+C:\Users\User\Documents\C#\BasketList\BasketList\bin\Debug\netcoreapp3.1\BasketList.dll
+C:\Users\User\Documents\C#\BasketList\BasketList\bin\Debug\netcoreapp3.1\BasketList.pdb
+C:\Users\User\Documents\C#\BasketList\BasketList\obj\Debug\netcoreapp3.1\BasketList.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\BasketList\BasketList\obj\Debug\netcoreapp3.1\BasketList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\BasketList\BasketList\obj\Debug\netcoreapp3.1\BasketList.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\BasketList\BasketList\obj\Debug\netcoreapp3.1\BasketList.AssemblyInfo.cs
+C:\Users\User\Documents\C#\BasketList\BasketList\obj\Debug\netcoreapp3.1\BasketList.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\BasketList\BasketList\obj\Debug\netcoreapp3.1\BasketList.dll
+C:\Users\User\Documents\C#\BasketList\BasketList\obj\Debug\netcoreapp3.1\BasketList.pdb
+C:\Users\User\Documents\C#\BasketList\BasketList\obj\Debug\netcoreapp3.1\BasketList.genruntimeconfig.cache
